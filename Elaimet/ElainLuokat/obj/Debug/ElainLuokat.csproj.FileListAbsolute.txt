@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Downloads\Elaimet\Elaimet\ElainLuokat\bin\Debug\ElainLuokat.dll
+C:\Users\Lenovo\Downloads\Elaimet\Elaimet\ElainLuokat\bin\Debug\ElainLuokat.pdb
+C:\Users\Lenovo\Downloads\Elaimet\Elaimet\ElainLuokat\obj\Debug\ElainLuokat.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Elaimet\Elaimet\ElainLuokat\obj\Debug\ElainLuokat.dll
+C:\Users\Lenovo\Downloads\Elaimet\Elaimet\ElainLuokat\obj\Debug\ElainLuokat.pdb
+C:\Users\Lenovo\Downloads\Elaimet\Elaimet\ElainLuokat\obj\Debug\ElainLuokat.csprojAssemblyReference.cache
